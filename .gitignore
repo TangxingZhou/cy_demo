@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# allure results and reports
+allure-*/
+
+# cypress output and example files
+cypress/videos/
+cypress/screenshots/
+cypress/integration/1-getting-started/
+cypress/integration/2-advanced-examples/

@@ -1,0 +1,9 @@
+{
+    "baseUrl": "xxx",
+    "projectId": "sdf2tq",
+    "video": false,
+    "env": {
+        "allure": true
+    },
+    "chromeWebSecurity": false
+}
